@@ -1,0 +1,165 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.5 Chrome/134.0.6998.205 Electron/35.3.0 Safari/537.36" version="27.0.5">
+  <diagram name="Page-1" id="CE4jEMbM0nliWhfG_-so">
+    <mxGraphModel dx="1426" dy="846" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="c7JsC_-ocjtzcRyKU20d-22" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="370" y="270" width="1090" height="465" as="geometry" />
+        </mxCell>
+        <mxCell id="c7JsC_-ocjtzcRyKU20d-21" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="170" width="460" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="c7JsC_-ocjtzcRyKU20d-27" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Oxygen-Rich Blood&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="c7JsC_-ocjtzcRyKU20d-1" target="c7JsC_-ocjtzcRyKU20d-2" edge="1">
+          <mxGeometry x="-0.7208" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="150" y="370" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gt7m7xB6mIpf4kIwqGAb-15" value="Entering Heart Right Side" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="c7JsC_-ocjtzcRyKU20d-27">
+          <mxGeometry x="0.5388" y="-4" relative="1" as="geometry">
+            <mxPoint x="-13" y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c7JsC_-ocjtzcRyKU20d-1" value="Lungs" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="230" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c7JsC_-ocjtzcRyKU20d-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="c7JsC_-ocjtzcRyKU20d-5" target="c7JsC_-ocjtzcRyKU20d-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="960" y="590" />
+              <mxPoint x="440" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c7JsC_-ocjtzcRyKU20d-5" value="Brain" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="900" y="440" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c7JsC_-ocjtzcRyKU20d-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="c7JsC_-ocjtzcRyKU20d-10" target="c7JsC_-ocjtzcRyKU20d-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1090" y="600" />
+              <mxPoint x="440" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c7JsC_-ocjtzcRyKU20d-10" value="Skin" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1030" y="440" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c7JsC_-ocjtzcRyKU20d-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="c7JsC_-ocjtzcRyKU20d-11" target="c7JsC_-ocjtzcRyKU20d-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1220" y="610" />
+              <mxPoint x="440" y="610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c7JsC_-ocjtzcRyKU20d-11" value="Eyes" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1160" y="440" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c7JsC_-ocjtzcRyKU20d-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="c7JsC_-ocjtzcRyKU20d-12" target="c7JsC_-ocjtzcRyKU20d-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="830" y="580" />
+              <mxPoint x="440" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c7JsC_-ocjtzcRyKU20d-12" value="Muscles" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="770" y="440" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c7JsC_-ocjtzcRyKU20d-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="c7JsC_-ocjtzcRyKU20d-13" target="c7JsC_-ocjtzcRyKU20d-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="700" y="570" />
+              <mxPoint x="440" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c7JsC_-ocjtzcRyKU20d-13" value="Kidneys" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="440" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c7JsC_-ocjtzcRyKU20d-37" value="Oxygen-Poor Blood" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="c7JsC_-ocjtzcRyKU20d-14" target="c7JsC_-ocjtzcRyKU20d-2" edge="1">
+          <mxGeometry x="0.4375" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="570" y="560" />
+              <mxPoint x="440" y="560" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gt7m7xB6mIpf4kIwqGAb-14" value="Entering Heart Left Side" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="c7JsC_-ocjtzcRyKU20d-37">
+          <mxGeometry x="0.8875" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c7JsC_-ocjtzcRyKU20d-14" value="LIver" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="510" y="440" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c7JsC_-ocjtzcRyKU20d-29" value="20%" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="c7JsC_-ocjtzcRyKU20d-2" target="c7JsC_-ocjtzcRyKU20d-13" edge="1">
+          <mxGeometry x="0.7778" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c7JsC_-ocjtzcRyKU20d-30" value="25%" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="c7JsC_-ocjtzcRyKU20d-2" target="c7JsC_-ocjtzcRyKU20d-14" edge="1">
+          <mxGeometry x="0.5714" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c7JsC_-ocjtzcRyKU20d-31" value="15-20%" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="c7JsC_-ocjtzcRyKU20d-2" target="c7JsC_-ocjtzcRyKU20d-12" edge="1">
+          <mxGeometry x="0.85" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c7JsC_-ocjtzcRyKU20d-32" value="14-15%" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="c7JsC_-ocjtzcRyKU20d-2" target="c7JsC_-ocjtzcRyKU20d-5" edge="1">
+          <mxGeometry x="0.8868" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c7JsC_-ocjtzcRyKU20d-33" value="4-5%" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="c7JsC_-ocjtzcRyKU20d-2" target="c7JsC_-ocjtzcRyKU20d-10" edge="1">
+          <mxGeometry x="0.9091" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c7JsC_-ocjtzcRyKU20d-34" value="4%" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Gt7m7xB6mIpf4kIwqGAb-20" target="c7JsC_-ocjtzcRyKU20d-11" edge="1">
+          <mxGeometry x="0.9241" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c7JsC_-ocjtzcRyKU20d-42" value="Oxygen-Poor Blood" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="c7JsC_-ocjtzcRyKU20d-2" target="c7JsC_-ocjtzcRyKU20d-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gt7m7xB6mIpf4kIwqGAb-16" value="Exisitng Heart Left Side" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="c7JsC_-ocjtzcRyKU20d-42">
+          <mxGeometry x="-0.8357" relative="1" as="geometry">
+            <mxPoint y="13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gt7m7xB6mIpf4kIwqGAb-25" value="6%" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="c7JsC_-ocjtzcRyKU20d-2" target="Gt7m7xB6mIpf4kIwqGAb-24">
+          <mxGeometry x="0.9348" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c7JsC_-ocjtzcRyKU20d-2" value="Heart" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="330" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c7JsC_-ocjtzcRyKU20d-23" value="Systemic Circulation Loop" style="text;fontColor=default;whiteSpace=wrap;html=1;fontSize=17;" parent="1" vertex="1">
+          <mxGeometry x="820" y="295" width="200" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="c7JsC_-ocjtzcRyKU20d-43" value="Pulmonary Circulation Loop" style="text;fontColor=default;whiteSpace=wrap;html=1;fontSize=17;" parent="1" vertex="1">
+          <mxGeometry x="180" y="195" width="230" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Gt7m7xB6mIpf4kIwqGAb-17" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Oxygen-Rich Blood&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="360" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Gt7m7xB6mIpf4kIwqGAb-20" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Exisitng Heart Right Side&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="360" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Gt7m7xB6mIpf4kIwqGAb-24" value="Other" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="440" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
