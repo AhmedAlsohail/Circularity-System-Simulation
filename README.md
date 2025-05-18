@@ -6,3 +6,8 @@ Simple simulation of the circularity system
 
 ## Demo
 ![Simulation Demo](Appends/Img/Demo.gif)
+
+#### Future work:
+- Cleaning Code
+- Adding visualization
+- Simulate whole body blood instead of 1 cell.
