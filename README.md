@@ -11,3 +11,5 @@ Simple simulation of the circularity system
 - Cleaning Code
 - Adding visualization
 - Simulate whole body blood instead of 1 cell.
+- Add more detailed blood status.
+- Add organs status.
